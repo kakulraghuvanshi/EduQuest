@@ -1,3 +1,6 @@
+"allowScripts": {
+  "esbuild": true
+},
 {
   "name": "react-vite-tailwind",
   "private": true,
