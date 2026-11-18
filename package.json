@@ -1,11 +1,11 @@
-"allowScripts": {
-  "esbuild": true
-},
 {
   "name": "react-vite-tailwind",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "allowScripts": {
+    "esbuild": true
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
